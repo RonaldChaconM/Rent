@@ -1,6 +1,6 @@
 class nodoC // nodo para manejar la lista por el intervalo de tiempo determinado
 {
-	int rony;
+	int cedula;
 	String nombre,telefono;
 	nodoC sig;
 
